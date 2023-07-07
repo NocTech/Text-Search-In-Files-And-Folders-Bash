@@ -24,3 +24,6 @@ search_text_in_folder() {
         fi
     done
 }
+
+# Example usage
+search_text_in_folder "$folder_path" "$search_text"
